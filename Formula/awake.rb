@@ -1,8 +1,8 @@
 class Awake < Formula
   desc "Keep your Mac awake even with the lid closed"
   homepage "https://github.com/tanabee/awake"
-  url "https://github.com/tanabee/awake/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "1ccac9e3d7bd6c3070469b0c9b0499b85bc265b73f93812297e0126075ad3dbd"
+  url "https://github.com/tanabee/awake/archive/refs/tags/v0.3.0.tar.gz"
+  sha256 "83798a369d726402ffd373593c6d0d9ade8747927762872829c08f991725bdee"
   license "MIT"
   head "https://github.com/tanabee/awake.git", branch: "main"
 
